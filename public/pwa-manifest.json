@@ -11,17 +11,17 @@
     ],
     "icons": [
       {
-        "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/master/public/icons/16x16.png",
+        "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/master/public/icons/icon_16.png",
         "sizes": "16x16",
         "type": "image/png"
       },
       {
-        "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/master/public/icons/48x48.png",
+        "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/master/public/icons/icon_48.png",
         "sizes": "48x48",
         "type": "image/png"
       },
       {
-        "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/master/public/icons/128x128.png",
+        "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/master/public/icons/icon_128.png",
         "sizes": "128x128",
         "type": "image/png"
       }
