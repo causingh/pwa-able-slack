@@ -56,6 +56,11 @@
       "type": "image/png"
     },
     {
+      "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/main/public/icons/Square96x96Logo.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
       "src": "https://raw.githubusercontent.com/causingh/pwa-able-slack/main/public/icons/Square128x128Logo.png",
       "sizes": "128x128",
       "type": "image/png"
